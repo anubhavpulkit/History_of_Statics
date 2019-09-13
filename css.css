@@ -1,0 +1,44 @@
+.head {
+	text-align: center;
+	background-color: lightgray;
+	padding-bottom: 3px;
+	margin-bottom: 3%;
+	margin-top: 0px;
+
+}
+.img {
+	text-align: center;
+	padding: 2px;
+}
+
+.list{
+	padding-top: 2%;
+	padding-left: 6%;
+	padding-right: 6%;
+	background-color: lightgray;
+
+}
+
+.links{
+	padding-top: 2%;
+	margin-bottom: 3%;
+	padding-left: 15%;
+	background-color: white;
+}
+
+h1 {
+	padding: 1%;
+	font-size: 50px;
+}
+h3{
+	font-size: 30px;
+	text-align: center;
+	margin: 5%;
+}
+
+p {
+	font-size: 20px;
+}
+body{
+	background-color: white;
+}
